@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <span style="color:purple;">Fred's Laravel Production Tweak</span>
+                    <span style="color:purple;">Fred's Laravel Production Deploy</span>
                 </div>
 
                 <div class="links">
